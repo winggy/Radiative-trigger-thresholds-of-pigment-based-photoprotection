@@ -1,5 +1,5 @@
 # Radiative-trigger-thresholds-of-pigment-based-photoprotection
-This repository provides Python codes to estimate the radiative trigger threshold for plant pigment photoprotection based on chlorophyll ratio index (Rchl) and short-wave radiation (SWR) time series.   
+This repository provides Python codes to estimate the radiative trigger threshold for plant pigment photoprotection based on the chlorophyll ratio index (Rchl) and short-wave radiation (SWR) time series.   
 
 Rchl data can be obtained based on the moderate resolution imaging spectroradiometer (MODIS) products following Wu et al 2021 (https://iopscience.iop.org/article/10.1088/1748-9326/abf3dc).  
 
